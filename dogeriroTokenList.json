@@ -1,0 +1,37 @@
+{
+    "name": "DOGERIRO Tokens",
+    "logoURI": "https://raw.githubusercontent.com/dogeriro/info/main/dogeriro.png",
+    "keywords": [
+        "DogeChain",
+        "defi",
+        "Doge",
+        "bridge"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 2000,
+            "address": "0x62E16AAf4555B572d3ffcbCaDEf0bE50667499F9",
+            "decimals": 18,
+            "name": "Doge Rise Grow",
+            "symbol": "DOGERIRO",
+            "logoURI": "https://raw.githubusercontent.com/dogeriro/info/main/dogeriro.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xe3fcA919883950c5cD468156392a6477Ff5d18de",
+            "decimals": 18,
+            "name": "Doge Eat Doge",
+            "symbol": "OMNOM",
+            "logoURI": "https://raw.githubusercontent.com/dogeriro/info/main/omnom.png"
+        }
+        
+        
+
+    ],
+    "timestamp": "2022-08-10T12:00:00+00:00"
+}
